@@ -1,6 +1,7 @@
 ## Custom
 # Log Files
 logs/
+finished/
 
 ## Standard Github .gitignore
 # Byte-compiled / optimized / DLL files
