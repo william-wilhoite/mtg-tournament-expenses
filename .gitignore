@@ -2,6 +2,7 @@
 # Log Files
 logs/
 finished/
+*.pbix
 
 ## Standard Github .gitignore
 # Byte-compiled / optimized / DLL files
