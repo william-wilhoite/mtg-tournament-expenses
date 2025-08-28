@@ -31,17 +31,17 @@ Additional: [Wikipedia - List of Magic: The Gathering Pro Tours](https://en.wiki
 
 ## Process
 ### Aquiring the Data
-1. Find all recent Standard Pro Tours  
-2.Webscrape for Tables of all tournament results.  
-3.Pull All Decks from each tournament.  
-4. Pull all cards from each tournament.  
-5. Webscrape for previous price data.  
+ 1. Find all recent Standard Pro Tours    
+ 2. Webscrape for Tables of all tournament results.  
+ 3. Pull All Decks from each tournament.  
+ 4. Pull all cards from each tournament.  
+ 5. Webscrape for previous price data.  
 
 ###  Calculating the Estimated Cost of Each Deck.
-6.Calculate the cost for each card use historical data for 7-14 days before the tournament start date.
-7. Join those values to DataFrame all related decks.
-8. Calculate an estimated price for each deck.
-9. Join those deck prices back with their tournament tables.
+ 6. Calculate the cost for each card use historical data for 7-14 days before the tournament start date.
+ 7. Join those values to DataFrame all related decks.
+ 8. Calculate an estimated price for each deck.
+ 9. Join those deck prices back with their tournament tables.
 
 ## Known Issues and Challenges
 1. It is necessary to have an account to access older sales data from MTGGoldfish.
