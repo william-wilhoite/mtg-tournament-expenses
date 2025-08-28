@@ -21,15 +21,13 @@ As an avid player of the game, I am interested in how the price of decks affect 
 ## Data Questions
 1. How do prices of Magic: The Gathering affect tournament placements?
 2. How has this changed overtime?
-3. What is the expected return on investment for high-level players of the game who participate in competitive tournaments?
-
 
 ## Technologies Used
 1. Python/Jupyter Notebook
 2. Microsoft Power BI
 
 ## Data Sources
-Main:       [MTGGoldfish](https://www.mtggoldfish.com/)
+Main:       [MTGGoldfish](https://www.mtggoldfish.com/)  
 Additional: [Wikipedia - List of Magic: The Gathering Pro Tours](https://en.wikipedia.org/wiki/List_of_Magic:_The_Gathering_Pro_Tour_events) & [The Official Pro Tour Website](https://magic.gg/events/pro-tour-march-of-the-machine)
 
 ## Process
