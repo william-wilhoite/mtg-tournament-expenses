@@ -3,11 +3,14 @@
 ## Table of Contents
 - [Summary](#Summary)
 - [Motivation](#Motivation)
-- [Data Questions](#DataQuestions)
-- [Technologies Used](#TechnologiesUsed)
-- [Data Sources](#DataSources)
+- [Data Questions](#Data-Questions)
+- [Technologies Used](#Technologies-Used)
+- [Data Sources](#Data-Sources)
 - [Process](#Process)
-- [Known Issues and Challenges](#KnownIssuesandChallenges)
+- [Known Issues and Challenges](#Known-Issues-and-Challenges)
+
+## Power BI Dashboard Link
+[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMGQ3MmRlNmYtNWRkZS00ZWQyLTlhODYtZjU2YzdmN2I0MTAwIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9&pageName=a0d0cbfc077e761e5a60)
 
 ## Summary
 As a longtime Magic: The Gathering player, I designed this capstone to explore the potential impact the cost of decks might have on the chances of victory at high-level tournaments. Additionally, I was curious to calculate the average return of investment is for high-level play. By web scraping MTGGoldfish (a site which lists tournament results and card prices), I was able to collect deck data, as well as the prices for those decks in the brief time period prior to a tournament. This helped me to investigate the possible correlation between deck prices and wins, as well as players' returns on their investments.
