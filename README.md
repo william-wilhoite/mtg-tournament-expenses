@@ -31,11 +31,11 @@ Additional: [Wikipedia - List of Magic: The Gathering Pro Tours](https://en.wiki
 
 ## Process
 ### Aquiring the Data
-1. Find all recent Standard Pro Tours
-2.Webscrape for Tables of all tournament results.
-3.Pull All Decks from each tournament.
-4. Pull all cards from each tournament.
-5. Webscrape for previous price data.
+1. Find all recent Standard Pro Tours  
+2.Webscrape for Tables of all tournament results.  
+3.Pull All Decks from each tournament.  
+4. Pull all cards from each tournament.  
+5. Webscrape for previous price data.  
 
 ###  Calculating the Estimated Cost of Each Deck.
 6.Calculate the cost for each card use historical data for 7-14 days before the tournament start date.
