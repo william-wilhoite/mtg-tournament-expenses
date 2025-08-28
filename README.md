@@ -5,7 +5,8 @@
 - [Motivation](#Motivation)
 - [Data Questions](#DataQuestions)
 - [Technologies Used](#TechnologiesUsed)
-- [Data Source](#DataSource)
+- [Data Sources](#DataSources)
+- [Process](#Process)
 - [Known Issues and Challenges](#KnownIssuesandChallenges)
 
 ## Summary
@@ -27,6 +28,20 @@ As an avid player of the game, I am interested in how the price of decks affect 
 ## Data Sources
 Main:       [MTGGoldfish](https://www.mtggoldfish.com/)
 Additional: [Wikipedia - List of Magic: The Gathering Pro Tours](https://en.wikipedia.org/wiki/List_of_Magic:_The_Gathering_Pro_Tour_events) & [The Official Pro Tour Website](https://magic.gg/events/pro-tour-march-of-the-machine)
+
+## Process
+### Aquiring the Data
+1. Find all recent Standard Pro Tours
+2.Webscrape for Tables of all tournament results.
+3.Pull All Decks from each tournament.
+4. Pull all cards from each tournament.
+5. Webscrape for previous price data.
+
+###  Calculating the Estimated Cost of Each Deck.
+6.Calculate the cost for each card use historical data for 7-14 days before the tournament start date.
+7. Join those values to DataFrame all related decks.
+8. Calculate an estimated price for each deck.
+9. Join those deck prices back with their tournament tables.
 
 ## Known Issues and Challenges
 1. It is necessary to have an account to access older sales data from MTGGoldfish.
