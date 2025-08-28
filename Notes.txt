@@ -1,7 +1,0 @@
-<table class='table-tournament'> = Table of Tournament Results
-
-Scryfall API:
- layout:   'normal', 'adventure', 'split', etc.
- keywords: 'flying', 'haste;, etc.
-
-March of the Machine has missing (or incorrect) placings.
